@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "one" {
-  bucket = "shaikmustafa77.flm.devsecops.project.bucket"
+  bucket = "pavan2026.k8s.local"
 }
 
 resource "aws_s3_bucket_ownership_controls" "two" {
